@@ -5,10 +5,12 @@
 - 💡 I love experimenting with generative AI and building real-world AI-powered solutions.
 - 🌱 I’m constantly learning and striving to improve my skills in AI, MLOps, and data science.
 - 👨‍💻 I am an aspiring data scientist and Generative AI enthusiast.
-- 📫 How to reach me:
+  
+## 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/akhilpadma)
-  - [Email](akhilmaurya18k@gmail.com)
+  - [Email](mailto:akhilmaurya18k@gmail.com)
   - [GitHub](https://github.com/akhilmaurya2k)
+  - [Discord](https://discord.com/users/p.akhil)
 
 ## 🔧 Technologies & Tools
 
