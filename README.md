@@ -3,7 +3,7 @@
 - ⚡ I am passionate about AI, machine learning, and data science.
 - 💻 Currently pursuing my Master’s in Computer Science at CSUDH and working as a Teaching Assistant in Statistics, Probability, and Machine Learning.
 - 💡 I love experimenting with generative AI and building real-world AI-powered solutions.
-- 🌱 I’m constantly learning and striving to improve my skills in AI, MLOps, and data science.
+- 🌱 I’m constantly learning and striving to improve my skills in data science - ML, DL, GenAI.
 - 👨‍💻 I am an aspiring data scientist and Generative AI enthusiast.
   
 ## 📫 How to reach me:
