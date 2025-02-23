@@ -56,6 +56,6 @@ Other Projects:
 
 
 
-## 📝 Footer
+## Footer
 Feel free to explore my repositories, check out my projects, and connect with me!  
 &copy; 2025 Akhil Padma | All Rights Reserved.
